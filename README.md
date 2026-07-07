@@ -1,5 +1,5 @@
-# gui-calculator-
-Tkinter
+# Python GUI Calculator using Tkinter
+
 
 from tkinter import *
 
